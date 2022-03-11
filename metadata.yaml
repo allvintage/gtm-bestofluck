@@ -15,5 +15,5 @@
 homepage: "https://www.glueckauf.io"
 documentation: "https://github.com/allvintage/gtm-bestofluck"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
-    changeNotes: Initial Version
+  - sha: 5748993d14ac5bdff13b9de55ef06ea556e1a6b0
+    changeNotes: Initial Commit
